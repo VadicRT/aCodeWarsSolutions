@@ -1,1 +1,1 @@
-#a solutions of tasks
+# A solutions of tasks
